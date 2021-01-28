@@ -3,3 +3,6 @@
 ################################################################################
 
 /obj
+/bin/Debug/netcoreapp3.1
+/.vs/DataEase/v16
+.vs/DataEase/DesignTimeBuild/.dtbcache.v2

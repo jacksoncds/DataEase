@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEase", "DataEase.csproj", "{75A18D3F-2548-4B76-9238-D1469CC7297A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A18D3F-2548-4B76-9238-D1469CC7297A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A18D3F-2548-4B76-9238-D1469CC7297A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A18D3F-2548-4B76-9238-D1469CC7297A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A18D3F-2548-4B76-9238-D1469CC7297A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B89606-0A40-4125-A50F-22FF9A0D13DD}
+	EndGlobalSection
+EndGlobal
